@@ -8,6 +8,12 @@
     },
     {
       "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 16
+    },
+    {
+      "item": {
         "tag": "forge:ingots/gold"
       },
       "count": 12
